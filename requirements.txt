@@ -1,4 +1,4 @@
 # requirements.txt
-opencv-python==4.5.5.64
-mediapipe==0.10.13
-ultralytics==8.0.196
+opencv-python
+mediapipe
+ultralytics
