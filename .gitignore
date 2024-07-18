@@ -1,1 +1,34 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directory
+myenv/
 venv/
+
+# VS Code settings directory
+.vscode/
+
+# Environment variable files
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+
+# Videos and images
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
